@@ -1,0 +1,26 @@
+\documentclass{article}
+\title{Muon isolation efficiency measurement at 13 TeV for CMS/LHC}
+\author{Luu Lan}
+\date{June 2018}
+\begin{document}
+   \maketitle
+
+\section{Introduction}
+
+\section{Motivation}
+
+\begin{equation}
+Iso. = \frac{ \sum P_i^{Charged} + \sum P_i^{Neutral} + \sum P_i^{photon}  }{P_T^{muon}}
+\end{equation}
+
+
+\section{Sample}
+
+\section{Analysis}
+
+\section{Result}
+
+\section{Conclusion}
+
+\end{document}
+~                 
